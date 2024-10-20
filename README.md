@@ -1,7 +1,7 @@
 ## hw1_1103535
 Author: Aaron 1103535 
 
-#### !!! TThe attached link is only for my study review and does not mean that I copied it!!!!
+#### !!! The attached link is only for my study review and does not mean that I copied it!!!!
 ### Question: 1
 <p>
 
