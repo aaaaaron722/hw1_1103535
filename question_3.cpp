@@ -41,9 +41,9 @@ void printFirstNegativeInteger(int arr[], int n, int k)
 // Driver program to test above functions
 int main()
 {
-	int arr[] = {12, -1, -7, 8, -15, 30, 16, 28};
+	int arr[] = {-8, 2, 3, -6, 10};
 	int n = sizeof(arr)/sizeof(arr[0]);
-	int k = 3;
+	int k = 2;
 	printFirstNegativeInteger(arr, n, k);
 	return 0;
 }
